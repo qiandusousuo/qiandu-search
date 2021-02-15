@@ -43,4 +43,4 @@ http://gongju.yuan123.xyz/t
 4，用户与第三方（包括与千度合作的）引起的一切纠纷，千度及其开发者不负任何责任。
 
 ***
-' ©qiandu 2020-2021 Copyright,all '
+`©qiandu 2020-2021 Copyright,all`
