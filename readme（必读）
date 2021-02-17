@@ -1,0 +1,17 @@
+### 中文,Chinese：
+>这里是千度的搜索引擎代码，你可以将该文件下的所有文件上传到你的服务器或主机空间内。
+
+***
+
+#### 环境：
+>至少5MB的服务器或主机
+>MySQL
+
+***
+
+####安装方式：
+1）将index.html与search.php上传至你的服务器内；
+2）在你的数据库中创建一个新的库，并运行以下SQL语句；如果无法创建，那么在你的数据库内运行以下sql语句，运行入口在菜单-SQL：
+CREATE TABLE `你的数据库名字`.`search` ( `title` TEXT CHARACTER SET gb2312 COLLATE gb2312_chinese_ci NOT NULL , `text` TEXT CHARACTER SET gb2312 COLLATE gb2312_chinese_ci NOT NULL , `site` TEXT CHARACTER SET gb2312 COLLATE gb2312_chinese_ci NOT NULL ) ENGINE = InnoDB;
+3）修改search.php内的信息，会有中文提示；
+4）一切准备就绪。
