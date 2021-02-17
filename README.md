@@ -1,3 +1,4 @@
+下载该源码： https://codeload.github.com/qiandusousuo/qiandu-search/zip/main
 ### README.md
 ***
 #### 中文，Chinese:
